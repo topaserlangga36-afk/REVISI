@@ -1,0 +1,7 @@
+.config/
+.env
+.ipynb_checkpoints/
+__pycache__/
+drive/
+sample_data/
+.DS_Store
